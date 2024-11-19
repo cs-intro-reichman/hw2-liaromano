@@ -30,7 +30,7 @@ public class Collatz {
 			System.out.println("("+count+")");
 			count=1;
 			}
-			System.out.println("Every one of the first "+n+" hailstone sequences reached 1");
+			System.out.println("Every one of the first "+n+" hailstone sequences reached 1.");
 		}
 		if(mode.equals("c"))
 		{
@@ -54,7 +54,7 @@ public class Collatz {
 				while(s!=1);
 				}
 			}
-			System.out.println("Every one of the first "+n+" hailstone sequences reached 1");
+			System.out.println("Every one of the first "+n+" hailstone sequences reached 1.");
 		}
 
 		
